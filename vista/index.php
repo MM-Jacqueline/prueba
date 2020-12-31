@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
       <!-- HEAD-->
+	  <?php include('includes/head.php');?>
         <!-- /HEAD -->
 
   <body class="nav-md">
@@ -10,14 +11,14 @@
           
 		  
         <!-- SLIDEBAR -->
-		
+		<?php include('includes/slidebar.php');?>
 		
         <!-- /SLIDEBAR -->
 		  
         </div>
 
         <!-- HEADER -->
-       
+       <?php include('includes/header.php');?>
         <!-- /HEADER -->
 
         <!-- page content -->
@@ -703,13 +704,13 @@
         <!-- /page content -->
 
         <!-- footer content -->
-    
+    <?php include('includes/footer.php');?>
         <!-- /footer content -->
       </div>
     </div>
 
        <!-- scripts-->
-    
+    <?php include('includes/scripts.php');?>
         <!-- /scripts -->
 	
   </body>
