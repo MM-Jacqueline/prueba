@@ -50,7 +50,7 @@ if ( ! function_exists('site_url'))
 // ------------------------------------------------------------------------
 
 /**
- * Base URL
+ * Base URL  si
  * 
  * Create a local URL based on your basepath.
  * Segments can be passed in as a string or an array, same as site_url
