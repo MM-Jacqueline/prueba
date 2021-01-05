@@ -112,14 +112,6 @@
         </div>
       </div>
     </div>
-<!--         <script type="text/javascript">
-            function base_url() {
-                return "<?= base_url() ?>";
-            }
 
-            jQuery(document).ready(function ($) {
-                loading();
-            });
-        </script>-->
   </body>
 </html>
